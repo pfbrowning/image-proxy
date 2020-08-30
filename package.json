@@ -4,6 +4,7 @@
   "description": "A simple image proxy built with Node.js & Express",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/pfbrowning/image-proxy/issues"
   },
-  "homepage": "https://github.com/pfbrowning/image-proxy#readme"
+  "homepage": "https://github.com/pfbrowning/image-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
