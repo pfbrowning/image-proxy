@@ -1,4 +1,5 @@
 # Image Proxy
+![Node.js CI](https://github.com/pfbrowning/image-proxy/workflows/Node.js%20CI/badge.svg)
 A simple image proxy built with Node.js and Express
 
 This is an early POC.  I'll write a proper readme once the project is closer to completion.
