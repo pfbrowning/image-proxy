@@ -5,8 +5,8 @@ This is an early POC.  I'll write a proper readme once the project is closer to 
 
 TODO
 * Configure CI / CD pipeline
-* Investigate more modern alternatives to [request](https://github.com/request/request)
 * Whitelist by referer
+* Investigate more modern alternatives to [request](https://github.com/request/request)
 * Log response errors
 * Don't pass response body for non-200 status codes
 * Handle 302 if necessary
