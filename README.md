@@ -5,6 +5,8 @@ This is an early POC.  I'll write a proper readme once the project is closer to 
 
 TODO
 * Configure CI / CD pipeline
+* Strip out the `set-cookie` response header
+* Filter non-image response types
 * Whitelist by referer
 * Investigate more modern alternatives to [request](https://github.com/request/request)
 * Log response errors
