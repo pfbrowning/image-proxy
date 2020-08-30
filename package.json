@@ -1,0 +1,19 @@
+{
+  "name": "image-proxy",
+  "version": "0.0.1",
+  "description": "A simple image proxy built with Node.js & Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfbrowning/image-proxy.git"
+  },
+  "author": "Patrick Browning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfbrowning/image-proxy/issues"
+  },
+  "homepage": "https://github.com/pfbrowning/image-proxy#readme"
+}
