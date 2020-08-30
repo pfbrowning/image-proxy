@@ -4,6 +4,7 @@ A simple image proxy built with Node.js and Express
 This is an early POC.  I'll write a proper readme once the project is closer to completion.
 
 TODO
+* Configure CI / CD pipeline
 * Investigate more modern alternatives to [request](https://github.com/request/request)
 * Whitelist by referer
 * Log response errors
