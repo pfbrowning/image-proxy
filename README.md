@@ -16,6 +16,7 @@ TODO
 * Gitignored local config
 * Configure linting via `standard`
 * Configure Jasmine
+* Query param validation
 * Middlewares
 * Consistent API responses
 * Swagger
